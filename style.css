@@ -1,65 +1,37 @@
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	text-decoration: underline;
+}
 body {
-	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 80%
+	background-color: #e8e8ff;
+	font-family: Arial, Helvetica, sans-serif;
 }
-table { font-size: 100% }	/* fixes IE5 tables don't inherit font size bug */
-body {
-	BACKGROUND-COLOR: #000000
+table {
+	background-color: white;	
+	border-collapse: collapse;
 }
-img {
-	BORDER: 0px;
-	TEXT-ALIGN: center;
-	VERTICAL-ALIGN: middle
+th, td {
+	text-align: left;
+	padding: 3px;
 }
-img.thumb {
-	BORDER: 0px;
-	TEXT-ALIGN: center;
-	VERTICAL-ALIGN: middle;
-	PADDING-BOTTOM: 5px
+th {
+	background-color: #e0ffe0;
 }
-h1 {
-	TEXT-ALIGN: center
+tr:nth-child(odd) {
+	background-color: #f1f1f1;
 }
-.title {
-	FONT-SIZE: larger; FONT-WEIGHT: bold
-}
-.menu {
-	BACKGROUND-COLOR: #ffffff;
-	BORDER-TOP: #000000 1px inset;
-	BORDER-LEFT: #000000 1px inset;
-	BORDER-BOTTOM: #000000 1px inset;
-	BORDER-RIGHT: #000000 1px inset;
-	PADDING-TOP: 5px;
-	PADDING-LEFT: 5px;
-	PADDING-BOTTOM: 5px;
-	PADDING-RIGHT: 5px;
-	POSITION: absolute;
-	TOP: 1em;
-	LEFT: 1em;
-	WIDTH: 8em
-}
-#body {
-	BACKGROUND-COLOR: #ffffff;
-	BORDER-TOP: #000000 1px inset;
-	BORDER-LEFT: #000000 1px inset;
-	BORDER-BOTTOM: #000000 1px inset;
-	BORDER-RIGHT: #000000 1px inset;
-	PADDING-TOP: 5px;
-	PADDING-LEFT: 5px;
-	PADDING-BOTTOM: 5px;
-	PADDING-RIGHT: 5px;
-	POSITION: absolute;
-	TOP: 1em;
-	LEFT: 1em;
-	WIDTH: 640px
-}
-.menuitem0 {
-	PADDING-LEFT: 0px
-}
-.menuitem1 {
-	PADDING-LEFT: 10px
-}
-.slideshow {
-	font-size:10px;
-	text-decoration:none;
-	color:#ffffff;
+#navigation th {
+	padding: 8px;
+	background-color: #e8e8ff;
 }

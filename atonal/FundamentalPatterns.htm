@@ -1,0 +1,448 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Fundamental Patterns</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="Chris Korda">
+<meta name="description" content="Most permutations of a set are transformations of a much smaller subset of prime forms.">
+<base href="PrimeForms.htm">
+<link href="../style.css" rel=stylesheet title=default type=text/css>
+</head>
+<body>
+
+<h2>Fundamental Patterns</h2>
+
+<p>It's well-known that the number of permutations for a set of size N is N factorial. We will show that most of these permutations are transformations of a much smaller subset of patterns called <em>prime forms</em>. For N=4 there are 24 permutations, but only three prime forms, and they are:</p>
+
+<table>
+<tbody>
+<tr>
+<td width="36">
+<p>A</p>
+</td>
+<td width="90">
+<p>[0 1 2 3]</p>
+</td>
+<td width="156">
+<p>ramp</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>B</p>
+</td>
+<td width="90">
+<p>[0 1 3 2]</p>
+</td>
+<td width="156">
+<p>alternating skips</p>
+</td>
+</tr>
+<tr>
+<td width="36">
+<p>C</p>
+</td>
+<td width="90">
+<p>[0 2 1 3]</p>
+</td>
+<td width="156">
+<p>ascending skips</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>Each of these prime forms has eight transformations, as shown below: four by cyclic rotation, and another four by cyclic rotation of the reversed pattern.</p>
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="36">
+<p>A</p>
+</td>
+<td width="276">
+<p>[0 1 2 3] [1 2 3 0] [2 3 0 1] [3 0 1 2]</p>
+</td>
+<td width="210">
+<p>cyclic rotation to the left</p>
+</td>
+</tr>
+<tr>
+<td width="276">
+<p>[3 2 1 0] [2 1 0 3] [1 0 3 2] [0 3 2 1]</p>
+</td>
+<td width="210">
+<p>reversal and cyclic rotation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="36">
+<p>B</p>
+</td>
+<td width="276">
+<p>[0 1 3 2] [1 3 2 0] [3 2 0 1] [2 0 1 3]</p>
+</td>
+<td width="210">
+<p>cyclic rotation to the left</p>
+</td>
+</tr>
+<tr>
+<td width="276">
+<p>[2 3 1 0] [3 1 0 2] [1 0 2 3] [0 2 3 1]</p>
+</td>
+<td width="210">
+<p>reversal and cyclic rotation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="36">
+<p>C</p>
+</td>
+<td width="276">
+<p>[0 2 1 3] [2 1 3 0] [1 3 0 2] [3 0 2 1]</p>
+</td>
+<td width="210">
+<p>cyclic rotation to the left</p>
+</td>
+</tr>
+<tr>
+<td width="276">
+<p>[3 1 2 0] [1 2 0 3] [2 0 3 1] [0 3 1 2]</p>
+</td>
+<td width="210">
+<p>reversal and cyclic rotation</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>Thus 24 permutations are reduced to a mere three patterns. The number of prime forms M for a set of size N is given by N! / (N &times; 2).</p>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="77">
+<p>N</p>
+</td>
+<td width="77">
+<p>N!</p>
+</td>
+<td width="77">
+<p>M</p>
+</td>
+</tr>
+<tr>
+<td width="77">
+<p>3</p>
+</td>
+<td width="77">
+<p>6</p>
+</td>
+<td width="77">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td width="77">
+<p>4</p>
+</td>
+<td width="77">
+<p>24</p>
+</td>
+<td width="77">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td width="77">
+<p>5</p>
+</td>
+<td width="77">
+<p>120</p>
+</td>
+<td width="77">
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td width="77">
+<p>6</p>
+</td>
+<td width="77">
+<p>720</p>
+</td>
+<td width="77">
+<p>60</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>A method for obtaining the prime forms for a given set size N is described below.</p>
+
+<p>The method requires a hashing function that converts every permutation of the set to a unique integer. The function interprets the permutation as a base N number and tightly packs its digits. More succinctly, the function sums D<sub>i</sub>&times;N<sup>(N&minus;i&minus;1)</sup> for i=[0..N&minus;1]. For example the set [1 0 3 2] is hashed to the value 78:</p>
+
+<p><strong>1</strong>&times;4<sup>3</sup>+<strong>0</strong>&times;4<sup>2</sup>+<strong>3</strong>&times;4<sup>1</sup>+<strong>2</strong>&times;4<sup>0</sup> = <strong>1</strong>&times;64&times;<strong>0</strong>&times;16+<strong>3</strong>&times;4+<strong>2</strong>&times;1 = 64+0+12+2 = 78</p>
+
+<p>Using this hashing function, we can convert any given permutation of the set to its prime form. This is done by generating all the rotations and reversed rotations and hashing each of them. The transformation that produces the smallest hash is the prime form.</p>
+
+<p>Now iterate through all the permutations of the given set. For each permutation, convert it to its prime form, and if that prime form hasn&rsquo;t been encountered before, add it to a list. At the end of the iteration, the list contains all of the prime forms for a set of size N.</p>
+
+<p>A prime form pattern can be conceptualized as a series of N intervals which generate the values [0..N&minus;1] in a characteristic sequence. To obtain the intervals, compute the absolute difference between each pair of adjacent elements. For example, here are the prime forms and their intervals for N=4:</p>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="48">
+
+</td>
+<td width="96">
+<p>Pattern</p>
+</td>
+<td width="96">
+<p>Intervals</p>
+</td>
+<td width="96">
+<p>Vector</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>A</p>
+</td>
+<td width="96">
+<p>0 1 2 3</p>
+</td>
+<td width="96">
+<p>1 1 1 3</p>
+</td>
+<td width="96">
+<p>&lt;301&gt;</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>B</p>
+</td>
+<td width="96">
+<p>0 1 3 2</p>
+</td>
+<td width="96">
+<p>1 2 1 2</p>
+</td>
+<td width="96">
+<p>&lt;220&gt;</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>C</p>
+</td>
+<td width="96">
+<p>0 2 1 3</p>
+</td>
+<td width="96">
+<p>2 1 2 3</p>
+</td>
+<td width="96">
+<p>&lt;121&gt;</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>The vector column above is analogous to the interval vector used in musical set theory. It&rsquo;s read from left to right. The leftmost element is the count of steps of size one, the next element is the count of steps of size two, and so on. The pattern [0 1 2 3] contains three steps of size one, no steps of size two, and a single step of size three, hence its interval vector is &lt;301&gt;. All of the transformations of a prime form have the same interval vector.</p>
+
+<p>The twelve prime forms for N=5 along with their interval vectors are shown below. Multiple prime forms can share the same interval vector, and in such cases the prime forms are related.</p>
+
+<table width="0">
+<tbody>
+<tr>
+<td width="48">
+
+</td>
+<td width="96">
+<p>Pattern</p>
+</td>
+<td width="96">
+<p>Vector</p>
+</td>
+<td width="96">
+<p>Related to</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>A</p>
+</td>
+<td width="96">
+<p>0 1 2 3 4</p>
+</td>
+<td width="96">
+<p>&lt;4001&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>B</p>
+</td>
+<td width="96">
+<p>0 1 2 4 3</p>
+</td>
+<td width="96">
+<p>&lt;3110&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>C</p>
+</td>
+<td width="96">
+<p>0 1 3 2 4</p>
+</td>
+<td width="96">
+<p>&lt;2201&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>D</p>
+</td>
+<td width="96">
+<p>0 1 3 4 2</p>
+</td>
+<td width="96">
+<p>&lt;2300&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>E</p>
+</td>
+<td width="96">
+<p>0 1 4 2 3</p>
+</td>
+<td width="96">
+<p>&lt;2120&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>F</p>
+</td>
+<td width="96">
+<p>0 1 4 3 2</p>
+</td>
+<td width="96">
+<p>&lt;3110&gt;</p>
+</td>
+<td width="96">
+<p>B</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>G</p>
+</td>
+<td width="96">
+<p>0 2 1 3 4</p>
+</td>
+<td width="96">
+<p>&lt;2201&gt;</p>
+</td>
+<td width="96">
+<p>C</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>H</p>
+</td>
+<td width="96">
+<p>0 2 1 4 3</p>
+</td>
+<td width="96">
+<p>&lt;2120&gt;</p>
+</td>
+<td width="96">
+<p>E</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>I</p>
+</td>
+<td width="96">
+<p>0 2 3 1 4</p>
+</td>
+<td width="96">
+<p>&lt;1211&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>J</p>
+</td>
+<td width="96">
+<p>0 2 4 1 3</p>
+</td>
+<td width="96">
+<p>&lt;0320&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>K</p>
+</td>
+<td width="96">
+<p>0 3 1 2 4</p>
+</td>
+<td width="96">
+<p>&lt;1211&gt;</p>
+</td>
+<td width="96">
+<p>&nbsp;I</p>
+</td>
+</tr>
+<tr>
+<td width="48">
+<p>L</p>
+</td>
+<td width="96">
+<p>0 3 2 1 4</p>
+</td>
+<td width="96">
+<p>&lt;2021&gt;</p>
+</td>
+<td width="96">
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+</body></html>

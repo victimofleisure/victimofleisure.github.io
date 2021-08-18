@@ -1,0 +1,84 @@
+Date	Venue	City	Country
+08/11/18	Schrippe Hawaii	Berlin	Germany
+08/10/18	Melancholie 2	Berlin	Germany
+07/30/18	Once Ballroom	Boston	USA
+11/15/03	Registratur	Munich	Germany
+11/14/03	Umatic	Athens	Greece
+11/12/03	Studio 672	Cologne	Germany
+11/11/03	Cookies	Berlin	Germany
+11/07/03	Rote Fabrik	Zürich	Switzerland
+11/06/03	Waagenbau	Hamburg	Germany
+11/01/03	Pfefferbank	Berlin	Germany
+10/31/03	Ms Stubnitz	Rostock	Germany
+10/30/03	Faktoria	Tarassa	Spain
+10/29/03	Moog	Barcelona	Spain
+10/24/03	Coppelia	Madrid	Spain
+10/23/03	Plastic	Milan	Italy
+08/27/03	Phoenix Landing	Boston	USA
+07/19/03	Pulse Festival	Moscow	Russia
+06/28/03	Batofar	Paris	France
+06/28/03	Gay Pride	Paris	France
+06/08/03	Firefly	NH	USA
+02/22/03	Polar TV	Berlin	Germany
+02/19/03	Batofar	Paris	France
+02/15/03	Orangerie	Munich	Germany
+11/16/02	Loft	Barcelona	Spain
+11/13/02	Paradiso	Amsterdam	Netherlands
+11/09/02	Zigarettenfabrik	Berlin	Germany
+09/19/02	Row Club	Barcelona	Spain
+08/24/02	Polar TV	Berlin	Germany
+08/23/02	Powder Room	Hamburg	Germany
+08/17/02	Datanom	Copenhagen	Denmark
+07/27/02	KKH	Neubrandenburg	Germany
+07/20/02	Schleife9	Dresden	Germany
+07/14/02	WMF	Berlin	Germany
+07/13/02	Ostgut	Berlin	Germany
+07/06/02	Tanzhalle	Hamburg	Germany
+07/05/02	Kino International	Berlin	Germany
+07/03/02	Bastard	Berlin	Germany
+06/29/02	Sonar	Sczeczin	Poland
+06/08/02	Anti	Berlin	Germany
+05/11/02	Pudel	Hamburg	Germany
+05/10/02	GUM Club	Hamburg	Germany
+03/09/02	Ostgut	Berlin	Germany
+03/07/02	Le Java	Paris	France
+03/02/02	Ultraschall	Munich	Germany
+03/01/02	Villa	Traunstein	Germany
+02/27/02	Moog	Barcelona	Spain
+02/24/02	GUM Club	Hamburg	Germany
+02/23/02	Orange	Hamburg	Germany
+06/16/01	Sonar Park	Barcelona	Spain
+03/08/01	Club Morocco	Buenos Aires	Argentina
+11/27/99	Galerie Horten	Dusseldorf	Germany
+11/26/99	Hafenklang	Hamburg	Germany
+11/25/99	Maria Am Ostbahnhof	Berlin	Germany
+11/24/99	Studio 672	Cologne	Germany
+11/22/99	Club 2	Munich	Germany
+11/20/99	Ego Club	Dusseldorf	Germany
+11/19/99	Ostparkstrasse 25	Frankfurt	Germany
+10/23/99	Hibernia	Boston	USA
+10/12/99	Circle	Boston	USA
+09/04/99	Nitsa	Barcelona	Spain
+07/17/99	Ultraschall	Munich	Germany
+07/16/99	Douala	Ravensburg	Germany
+07/13/99	Pudel	Hamburg	Germany
+07/11/99	Love Parade/WMF	Berlin	Germany
+06/07/99	Live on WZBC 90.3 FM	Boston	USA
+05/22/99	Ultraschall	Munich	Germany
+05/21/99	Credo	Munich	Germany
+05/06/99	Live on WZBC 90.3 FM	Boston	USA
+12/31/98	Ultraschall	Munich	Germany
+12/26/98	U60-311	Frankfurt	Germany
+12/25/98	WMF	Berlin	Germany
+09/22/98	Circle	Boston	USA
+08/15/98	Popkomm	Cologne	Germany
+08/08/98	Futura	Sarajevo	Bosnia
+08/??/98	Schalterhalle	Ulm	Germany
+08/01/98	Ultraschall	Munich	Germany
+07/24/98	Kellar	Munich	Germany
+07/12/98	Love Parade/WMF	Berlin	Germany
+06/20/98	Sex Is Good	Boston	USA
+03/21/98	Ultraschall	Munich	Germany
+02/28/98	Vanishing Point	Boston	USA
+08/23/97	Ultraschall	Munich	Germany
+08/16/97	Popkomm	Cologne 	Germany

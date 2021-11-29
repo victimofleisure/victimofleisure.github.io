@@ -1,7 +1,8 @@
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+<meta charset="utf-8">
 <title>Chris Korda: News</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="author" content="Chris Korda">
 <meta name="description" content="Chris Korda's home page">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,6 +23,10 @@
 </div>
 <div id=body>
 <!--  content goes HERE  -->
+
+<p>Read: <a href="https://www.chriskorda.com/tlor/a_thin_layer_of_oily_rock_la_station.html">Transcript</a> of my presentation at La Station, Paris
+
+<p>Watch: <a href="https://archive.org/details/a-thin-layer-of-oily-rock-at-la-station-paris-video">A Thin Layer of Oily Rock</a> presentation at La Station, Paris
 
 <p>Read: <a href="https://victimofleisure.github.io/Polymeter/helpframe.html">Polymeter Help</a> (or as a <a href="https://victimofleisure.github.io/Polymeter/Help/printable/PolymeterHelp.htm">single page</a>)
 

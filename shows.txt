@@ -1,4 +1,27 @@
 Date	Venue	City	Country
+11/20/21 	Zentralwäscherei 	Zürich 	Switzerland
+11/05/21 	Tempio del Futuro Perduto 	Milan 	Italy
+10/01/21 	La Station 	Paris 	France
+09/19/21 	Nostromo 	Marolles-sur-Seine 	France
+08/01/21 	Mutek/Centrale 93 	Paris 	France
+07/04/21 	Flash 	Washington DC 	USA
+07/03/21 	Resolute NYC 	New York 	USA
+10/03/20 	Ziegrahof 	Berlin 	Germany
+09/19/20 	Club der Visionaere 	Berlin 	Germany
+05/24/20 	Club der Visionaere 	Berlin 	Germany
+02/08/20 	Oficinas do Convento 	Montemor-o-Novo 	Portugal
+02/07/20 	Amor Records 	Lisbon 	Portugal
+09/29/19 	MS Rhein 	Berlin 	Germany
+09/28/19 	Schlaflos/Pratersauna 	Vienna 	Austria
+08/02/19 	Panorama Bar 	Berlin 	Germany
+07/26/19 	DC10 	Ibiza 	Spain
+05/18/19 	Schrippe Hawaii 	Berlin 	Germany
+05/03/19 	Atlas Brewery 	Brussels 	Belgium
+04/13/19 	l'Officine 2.0 	Paris 	France
+04/14/19 	Te Iubesc 	Paris 	France
+02/22/19 	Tvinyl 	Barcelona 	Spain
+09/16/18 	Schrippe Hawaii 	Berlin 	Germany
+09/16/18 	Melancholie 2 	Berlin 	Germany
 08/11/18	Schrippe Hawaii	Berlin	Germany
 08/10/18	Melancholie 2	Berlin	Germany
 07/30/18	Once Ballroom	Boston	USA

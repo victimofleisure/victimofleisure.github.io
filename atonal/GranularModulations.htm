@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Granular Modulations</title>
+<meta name="author" content="Chris Korda">
+<meta name="date" content="2022-02-23">
+<meta name="description" content="Granular Modulations">
+</head>
+<body>
+
+<p>To modulate a scale as smoothly as possible, we must change only one of its 
+notes at a time. We call this process granular modulation, and we explore 
+it using four common scales: major, melodic minor, harmonic major, 
+and harmonic minor. The table below lists all the possibilities.
+
+<p><table border=1 cellpadding=2 cellspacing=0>
+<tr><th colspan=3>Granular Modulations</th></tr>
+<tr><th>From</th><th>To</th><th>Alteration</th></tr>
+<tr><td rowspan = 6>Major</td><td>I Harmonic major</td><td>b6</td></tr>
+<tr><td>I Melodic minor</td><td>b3</td></tr>
+<tr><td>II Melodic minor</td><td>#1</td></tr>
+<tr><td>IV Major</td><td>b7</td></tr>
+<tr><td>V Major</td><td>#4</td></tr>
+<tr><td>VI Harmonic minor</td><td>#5</td></tr>
+<tr><td rowspan = 4>Melodic minor</td><td>I Harmonic minor</td><td>b6</td></tr>
+<tr><td>I Major</td><td>#3</td></tr>
+<tr><td>V Harmonic major</td><td>#4</td></tr>
+<tr><td>bVII Major</td><td>b7</td></tr>
+<tr><td rowspan = 3>Harmonic Major</td><td>I Harmonic minor</td><td>b3</td></tr>
+<tr><td>I Major</td><td>#6</td></tr>
+<tr><td>IV Melodic minor</td><td>b7</td></tr>
+<tr><td rowspan = 3>Harmonic Minor</td><td>I Harmonic major</td><td>#3</td></tr>
+<tr><td>I Melodic minor</td><td>#6</td></tr>
+<tr><td>III Major</td><td>b7</td></tr>
+</table>
+
+<p>We focus on these four scales exclusively because they have unusual 
+properties. The major and melodic minor are the only heptatonic scales 
+that combine semitones and whole tones, and don't contain multiple 
+semitones in a row. Similarly, the harmonic major and harmonic minor
+are the only heptatonic scales that combine semitones and whole tones
+with a single minor third, and don't contain multiple semitones 
+in a row. Scales that contain multiple semitones in a row are problematic 
+because the cycle of thirds can't be applied to them without ambiguities.
+The four scales explored above all implement the cycle of thirds consistently,
+which makes them suitable for building chords in thirds, as is customary
+in traditional harmony.
+
+<p>The cycle of fifths is a well-known example of granular modulation.
+Sharping the fourth of the major scale modulates to the major key up a fifth, 
+and repeating this process cycles through all twelve keys. Many other granular 
+cadences can be constructed by selecting modulations from the table above,
+using various combinations of the four scales we're considering. 
+An example is given below.
+
+<p><table border=1 cellpadding=2 cellspacing=0>
+<tr><th colspan=4>A Granular Cadence</th></tr>
+<tr><th>Chord</th><th>Scale name</th><th>Scale tones</th><th>Alteration</th></tr>
+<tr><td>Fmaj7</td><td>C Major</td><td>C D E F G A B</td><td>#1</td></tr>
+<tr><td>B-7b5</td><td>D Melodic minor</td><td>C# D E F G A B</td><td>#4</td></tr>
+<tr><td>Fmaj7#5</td><td>A Harmonic major</td><td>C# D E F G# A B</td><td>#6</td></tr>
+<tr><td>Dmaj7</td><td>A Major</td><td>C# D E F# G# A B</td><td>#1</td></tr>
+<tr><td>G#-7b5</td><td>B Melodic minor</td><td>C# D E F# G# A# B</td><td>b6</td></tr>
+<tr><td>Dmaj7#5</td><td>B Harmonic minor</td><td>C# D E F# G A# B</td><td>b7</td></tr>
+<tr><td>Gmaj7</td><td>D Major</td><td>C# D E F# G A B</td><td>b7</td></tr>
+<tr><td>Cmaj7</td><td>G Major</td><td>C D E F# G A B</td><td>b7</td></tr>
+</table>
+ 
+<p>The granular modulations table was derived by analyzing all the possible alterations
+of the major and melodic minor scales, as shown below. Alterations that cause duplicate 
+notes are marked N/A. In the pitch sets, T = 10 and E = 11.
+
+<p><table border=1 cellpadding=2 cellspacing=0>
+<tr><th colspan=5>Major Scale (1 2 3 4 5 6 7)</th></tr>
+<tr><th>Alteration</th><th>Scale name</th><th>Built on</th><th>Pitch set</th><th>Forte #</th></tr>
+<tr><td>None</td><td>Major</td><td>I</td><td>[0,2,4,5,7,9,E]</td><td>7-35</td></tr>
+<tr><td>b1</td><td colspan=4>N/A</td></tr>
+<tr><td>#1</td><td>Melodic minor</td><td>II</td><td>[1,2,4,5,7,9,E]</td><td>7-34</td></tr>
+<tr><td>b2</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,1,4,5,7,9,E]</td><td>7-30B</td></tr>
+<tr><td>#2</td><td>Neapolitan minor</td><td>III</td><td>[0,3,4,5,7,9,E]</td><td>7-30A</td></tr>
+<tr><td>b3</td><td>Melodic minor</td><td>I</td><td>[0,2,3,5,7,9,E]</td><td>7-34</td></tr>
+<tr><td>#3</td><td colspan=4>N/A</td></tr>
+<tr><td>b4</td><td colspan=4>N/A</td></tr>
+<tr><td>#4</td><td>Major</td><td>V</td><td>[0,2,4,6,7,9,E]</td><td>7-35</td></tr>
+<tr><td>b5</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,2,4,5,6,9,E]</td><td>7-29B</td></tr>
+<tr><td>#5</td><td>Harmonic minor</td><td>VI</td><td>[0,2,4,5,8,9,E]</td><td>7-32A</td></tr>
+<tr><td>b6</td><td>Harmonic major</td><td>I</td><td>[0,2,4,5,7,8,E]</td><td>7-32B</td></tr>
+<tr><td>#6</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,2,4,5,7,T,E]</td><td>7-29A</td></tr>
+<tr><td>b7</td><td>Major</td><td>IV</td><td>[0,2,4,5,7,9,T]</td><td>7-35</td></tr>
+<tr><td>#7</td><td colspan=4>N/A</td></tr>
+</table>
+
+<p><table border=1 cellpadding=2 cellspacing=0>
+<tr><th colspan=5>Melodic Minor Scale (1 2 b3 4 5 6 7)</th></tr>
+<tr><th>Alteration</th><th>Scale name</th><th>Built on</th><th>Pitch set</th><th>Forte #</th></tr>
+<tr><td>None</td><td>Melodic minor</td><td>I</td><td>[0,2,3,5,7,9,E]</td><td>7-34</td></tr>
+<tr><td>b1</td><td colspan=4>N/A</td></tr>
+<tr><td>#1</td><td>Neapolitan major</td><td>II</td><td>[1,2,3,5,7,9,E]</td><td>7-33</td></tr>
+<tr><td>b2</td><td>Neapolitan major</td><td>I</td><td>[0,1,3,5,7,9,E]</td><td>7-33</td></tr>
+<tr><td>#2</td><td colspan=4>N/A</td></tr>
+<tr><td>b3</td><td colspan=4>N/A</td></tr>
+<tr><td>#3</td><td>Major</td><td>I</td><td>[0,2,4,5,7,9,E]</td><td>7-35</td></tr>
+<tr><td>b4</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,2,3,4,7,9,E]</td><td>7-27</td></tr>
+<tr><td>#4</td><td>Harmonic major</td><td>V</td><td>[0,2,3,6,7,9,E]</td><td>7-32B</td></tr>
+<tr><td>b5</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,2,3,5,6,9,E]</td><td>7-31</td></tr>
+<tr><td>#5</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,2,3,5,8,9,E]</td><td>7-31</td></tr>
+<tr><td>b6</td><td>Harmonic minor</td><td>I</td><td>[0,2,3,5,7,8,E]</td><td>7-32A</td></tr>
+<tr><td>#6</td><td>&nbsp;</td><td>&nbsp;</td><td>[0,2,3,5,7,T,E]</td><td>7-27</td></tr>
+<tr><td>b7</td><td>Major</td><td>bVII</td><td>[0,2,3,5,7,9,T]</td><td>7-35</td></tr>
+<tr><td>#7</td><td colspan=4>N/A</td></tr>
+</table>
+
+</body>
+</html>

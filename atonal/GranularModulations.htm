@@ -13,25 +13,32 @@ notes at a time. We call this process granular modulation, and we explore
 it using four common scales: major, melodic minor, harmonic major, 
 and harmonic minor. The table below lists all the possibilities.
 
+<style>
+.major { background-color: pink; }
+.mel_min { background-color: lightyellow; }
+.har_maj { background-color: lightgreen; }
+.har_min { background-color: lightblue; }
+</style>
+
 <p><table border=1 cellpadding=2 cellspacing=0>
 <tr><th colspan=3>Granular Modulations</th></tr>
 <tr><th>From</th><th>To</th><th>Alteration</th></tr>
-<tr><td rowspan = 6>Major</td><td>I Harmonic major</td><td>b6</td></tr>
-<tr><td>I Melodic minor</td><td>b3</td></tr>
-<tr><td>II Melodic minor</td><td>#1</td></tr>
-<tr><td>IV Major</td><td>b7</td></tr>
-<tr><td>V Major</td><td>#4</td></tr>
-<tr><td>VI Harmonic minor</td><td>#5</td></tr>
-<tr><td rowspan = 4>Melodic minor</td><td>I Harmonic minor</td><td>b6</td></tr>
-<tr><td>I Major</td><td>#3</td></tr>
-<tr><td>V Harmonic major</td><td>#4</td></tr>
-<tr><td>bVII Major</td><td>b7</td></tr>
-<tr><td rowspan = 3>Harmonic Major</td><td>I Harmonic minor</td><td>b3</td></tr>
-<tr><td>I Major</td><td>#6</td></tr>
-<tr><td>IV Melodic minor</td><td>b7</td></tr>
-<tr><td rowspan = 3>Harmonic Minor</td><td>I Harmonic major</td><td>#3</td></tr>
-<tr><td>I Melodic minor</td><td>#6</td></tr>
-<tr><td>III Major</td><td>b7</td></tr>
+<tr><td rowspan=6 class="major">Major</td><td class="har_maj">I Harmonic major</td><td class="har_maj">b6</td></tr>
+<tr><td class="mel_min">I Melodic minor</td><td class="mel_min">b3</td></tr>
+<tr><td class="mel_min">II Melodic minor</td><td class="mel_min">#1</td></tr>
+<tr><td class="major">IV Major</td><td class="major">b7</td></tr>
+<tr><td class="major">V Major</td><td class="major">#4</td></tr>
+<tr><td class="har_min">VI Harmonic minor</td><td class="har_min">#5</td></tr>
+<tr><td rowspan=4 class="mel_min">Melodic minor</td><td class="har_min">I Harmonic minor</td><td class="har_min">b6</td></tr>
+<tr><td class="major">I Major</td><td class="major">#3</td></tr>
+<tr><td class="har_maj">V Harmonic major</td><td class="har_maj">#4</td></tr>
+<tr><td class="major">bVII Major</td><td class="major">b7</td></tr>
+<tr><td rowspan=3 class="har_maj">Harmonic Major</td><td class="har_min">I Harmonic minor</td><td class="har_min">b3</td></tr>
+<tr><td class="major">I Major</td><td class="major">#6</td></tr>
+<tr><td class="mel_min">IV Melodic minor</td><td class="mel_min">b7</td></tr>
+<tr><td rowspan=3 class="har_min">Harmonic Minor</td><td class="har_maj">I Harmonic major</td><td class="har_maj">#3</td></tr>
+<tr><td class="mel_min">I Melodic minor</td><td class="mel_min">#6</td></tr>
+<tr><td class="major">III Major</td><td class="major">b7</td></tr>
 </table>
 
 <p>We focus on these four scales exclusively because they have unusual 
@@ -68,7 +75,7 @@ An example is given below.
  
 <p>The granular modulations table was derived by analyzing all the possible alterations
 of the major and melodic minor scales, as shown below. Alterations that cause duplicate 
-notes are marked N/A. In the pitch sets, T = 10 and E = 11.
+notes are marked N/A. In the pitch sets, T=10 and E=11.
 
 <p><table border=1 cellpadding=2 cellspacing=0>
 <tr><th colspan=5>Major Scale (1 2 3 4 5 6 7)</th></tr>

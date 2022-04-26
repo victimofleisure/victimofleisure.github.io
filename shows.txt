@@ -1,4 +1,13 @@
 Date	Venue	City	Country
+10/01/22	Opera	Valencia	Spain
+09/10/22	Badaboum (TBC)	Paris	France
+08/17/22	Waking Life	Crato	Portugal
+07/13/22	Confort Moderne live show	Poitiers	France
+07/01/22	La Trabendo / Flash Cocotte	Paris	France
+06/18/22	Sameheads (TBC)	Berlin	Germany
+06/10/22	Confort Moderne opening	Poitiers	France
+05/25/22	Cabaret Sauvage/Distrikt Paris	Paris	France
+04/15/22	PRST	Vienna	Austria
 11/20/21 	Zentralwäscherei 	Zürich 	Switzerland
 11/05/21 	Tempio del Futuro Perduto 	Milan 	Italy
 10/01/21 	La Station 	Paris 	France

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Enumerating Rhythms By Density</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="Chris Korda">
+<meta name="description" content="Most permutations of a set are transformations of a much smaller subset of prime forms.">
+<link href="../style.css" rel=stylesheet title=default type=text/css>
+</head>
+<body>
+
+<h2>Enumerating Rhythms By Density</h2>
+
+<p>When writing in polymeter it’s useful to conceptualize rhythm patterns in terms of their density. In order to clarify this, let’s examine some simple patterns. To keep it simple, we’ll assume that each pattern step is either 0 (off) or 1 (on). We’ll ignore velocity variation, and also ignore duration variation (tied notes) and triplets. We’ll also ignore completely empty patterns (silence). The simplest useful example is the two step patterns, of which there would appear to be three: 01, 10, and 11.
+
+<p>However in a polymeter context, 01 and 10 are actually the same pattern. Why? In polymeter, because each pattern length is shifting phase relative to other pattern lengths, any given pattern will eventually be heard in all of its possible phases or orientations. Since 10 is the same as 01 rotated by one step, the two patterns can be grouped together and viewed as a single pattern: 10.
+
+<p>This observation leads us to a more central idea of enumerating rhythmic patterns by their density. Density in this context means the proportion of 1s (steps that are on) to 0s (steps that are off). For example let’s look at all the possible three-step patterns, eliminating duplicates:
+
+<p>100
+<br>110
+<br>111
+
+<p>Here we eliminated 010 and 001 as duplicates of 100, and eliminated 011 as a duplicate of 110. Notice that of the remaining patterns, we now have only one pattern for each of three possible densities, excluding zero.
+
+<p>Would could plausibly name these patterns using a three-level naming system, in which the first number is the pattern length, the second number is the number of 1s (the density), and the third number is an index uniquely identifying each pattern of that length and density. According to this scheme, the three-step patterns above would be named as follows:
+
+<p><table border=1>
+<tr><th>Name</th><th>Set</th></tr>
+<tr><td>3-1-1</td><td>100</td></tr>
+<tr><td>3-2-1</td><td>110</td></tr>
+<tr><td>3-3-1</td><td>111</td></tr>
+</table>
+
+<p>It’s more instructive to examine the five-step patterns. The number of possible five-step patterns is 2 to the fifth power, or 32 patterns. But in our system, there are only seven five-step patterns, because most of them are eliminated as duplicates:
+
+<p><table border=1>
+<tr><th>Name</th><th>Set</th></tr>
+<tr><td>5-1-1</td><td>10000</td></tr>
+<tr><td>5-2-1</td><td>11000</td></tr>
+<tr><td>5-2-2</td><td>10100</td></tr>
+<tr><td>5-3-1</td><td>11100</td></tr>
+<tr><td>5-3-2</td><td>11010</td></tr>
+<tr><td>5-4-1</td><td>11110</td></tr>
+<tr><td>5-5-1</td><td>11111</td></tr>
+</table>
+
+<p>This method of enumerating rhythm patterns is useful when composing polymeter, because it greatly reduces the number of possibilities, so that we can focus on the relatively few patterns that will actually be distinguishable in polymeter. It’s also similar to the scheme that atonal composers use to classify pitch sets.
+
+<p>The scheme is primarily useful for fairly short patterns. Here’s a table of <a href="https://victimofleisure.github.io/Polymeter/tools/RhythmEnum.html">rhythms by density</a>.
+
+</body></html>

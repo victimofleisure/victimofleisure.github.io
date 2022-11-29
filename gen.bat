@@ -1,3 +1,5 @@
+echo updates *ALL* pages with new navigation, are you SURE? Ctrl+C to abort
+pause
 attrib +r atonal\*.*
 attrib +r img\*.*
 attrib +r math\*.*

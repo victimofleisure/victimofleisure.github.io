@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Chris Korda's scores - A foreword from the composer</title>
+<meta name="author" content="Chris Korda">
+<meta name="date" content="2021-11-29">
+<meta name="description" content="An introduction to Chris Korda's musical scores, explaining various challenges and possible solutions">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="../style.css" rel=stylesheet title=default type=text/css>
+</head>
+<body>
+<div class=menu>
+<p><table id="navigation">
+<tr>
+<th><a href="../index.html">Home</a></th>
+<th><a href="../music.html">Music</a></th>
+<th><a href="../software.html">Software</a></th>
+<th><a href="../art.html">Art</a></th>
+<th><a href="../words.html">Words</a></th>
+<th><a href="../contact.html">Contact</a></th>
+</tr>
+</table>
+</div>
+<div id=body>
+<!--  content goes HERE  -->
+
+<h2>A foreword from the composer</h2>
+
+<p>There&rsquo;s no guarantee that humans can play these <a href="scores.html">scores</a> easily or at all. These are generative, algorithmic compositions, and they were originally played by virtual machines. Many of the scores have three staves and clearly require a third hand. The complexity is often primarily in the middle stave, thus it may be acceptable to omit the top or bottom stave altogether, at least as an experiment. In some cases the middle stave may require two hands by itself, due to wide intervals or other fingering challenges. Such compositions could be played by three people sitting at the same piano on an extra-wide bench, or possibly using two pianos, with one player handling the middle stave, and the other handling the top and bottom staves.
+
+<p>Many of the compositions use octave-shifted clefs, in order to avoid excessive ledger lines. Look for a small 8 above or below the clef symbol: above means shift the part an octave up, and below means shift it an octave down.
+
+<p>The scoring process excludes dynamics. This is necessary because the dynamics are sufficiently complex that they would make the score unreadable. In particular, the note velocities often vary in a short repeated pattern. For example, in an extended run of notes, the note velocities might be 100, 85, 70, 100, 85, 70, over and over. This &ldquo;velocity wiggle&rdquo; superimposes an additional rhythm onto the composition, but it is absent from the scores. Tempo changes are also excluded.
+
+<p>All of the compositions feature arpeggios having overlapping notes. These overlaps are intended to ensure that at least four notes are always sounding, without resorting to the sustain pedal. The overlaps are trivial for machines, but they are extremely unnatural for humans to finger, and they would also make the score an unreadable mess. The MIDI-to-score conversion process removes these overlaps. Another way to think about it: the overlapped notes create a continuous but ever-changing chord, to which new notes are constantly added while older notes are removed. Reducing this fluctuating chord to a single melodic line makes the composition sound much thinner than it actually is. A human player could possibly simulate the overlaps by sustaining each note to the extent fingering constraints permit, or perhaps by using the sustain pedal. However the sustain pedal may create unintended dissonance by juxtaposing notes that don&rsquo;t belong together.
+
+<p>Most of these compositions are in complex polymeter, meaning they use at least three relatively prime loop lengths simultaneously. Many of the compositions are simultaneously in 2, 3, 5, and 7. A table of my compositions, including their polymeter usage, is available <a href="https://victimofleisure.github.io/Polymeter/tools/tracks.html">here</a>. Despite the polymeter, each composition has a predominant meter, and is notated in the corresponding time signature. If the time signature&rsquo;s numerator is big, the measures are correspondingly long, and this can make them challenging to read. For example, because &ldquo;Yipo&rdquo; is notated in 11/4, each of its measures takes an entire line in the sheet music. The only alternative would be to switch between time signatures throughout the score. This might be easier to read, but my homegrown MIDI-to-score software doesn&rsquo;t currently support time signature changes.
+
+<p>Throughout the scoring process, I have tried to maximize convenience for the reader. Please bear in mind that a score isn&rsquo;t a recording and can&rsquo;t be compared to one. A score is a schematic that must be interpreted. Before the machine age, scores were the only means of capturing music, but they were never ideal for that purpose, because they necessarily eliminate detail. A score is a series of instructions that can be followed more or less precisely, like a recipe. Audio and MIDI recording have usurped the score&rsquo;s role of capturing musical reality, just as photography usurped an analogous role from portrait painters. Premodern scores often contain extremely dense notation in an attempt to capture as much detail as possible, but we still can&rsquo;t know exactly what contemporaneous performances sounded like, because only an idealized representation survives. That said, to the extent that these scores are recipes, may the result be delicious.
+
+<p>Chris Korda
+<br>December 14, 2023
+
+<p>Piano compositions having only two staves throughout:
+<br>Ona Lile
+<br>Ninu Meta
+<br>Yipo
+<br>Roro
+<br>Gray in Three Situations
+
+<!--  content stops HERE  -->
+</div>
+</body>
+</html>

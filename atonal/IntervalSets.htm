@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Interval Sets</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="author" content="Chris Korda">
+<meta name="description" content="Table of interval sets for music composition.">
+<link href="../style.css" rel=stylesheet title=default type=text/css>
+</head>
+<body>
+<h2>Interval Sets</h2>
+
+<p><small>by Chris Korda</small>
+
+<p>An interval set is a <a href="https://en.wikipedia.org/wiki/Mixed_radix">mixed-radix</a> number in which each radix corresponds to a musical interval in semitones. For example radix 2 is a whole step, radix 3 is a minor third, radix 4 is a major third, and so on. Interval sets are intended for atonal music composition, and particularly for permutational chord progressions.
+
+<p>A set’s radices (or places) are defined by a hexadecimal value called a set code. Each hexadecimal digit specifies the range of one of the set’s places. A place’s value can vary from zero to its range minus one. For example, the code 246 defines a three-place set in which the first place can be 0 or 1, the second place can be 0, 1, 2, or 3, and the third place can  be 0, 1, 2, 3, 4, or 5. This set has a total range of 12 (2 + 4 + 6), and the number of unique states (or permutations) it can have is 48 (2 &times; 4 &times; 6).
+
+<p>In musical terminology, set 246 consists of three intervals: a whole step, a major third, and a tritone. Packed tightly, these intervals add up to an octave. Each interval spans a different contiguous subset of the chromatic scale. By selecting one note from each of the three spans, a trichord can be formed. Assuming the trichord starts on C, its first tone can be C or Db, its second tone can be D, Eb, E, or F, and its third tone can be Gb, G, Ab, A, Bb, or B. Since the set has 48 permutations, <a href="#set246">48 possible trichords</a> can be formed.
+
+<p>The following additional constraints apply to interval sets:
+<ol>
+<li>A set must have at least two places.
+<li>The minimum place range is two; put another way, the minimum radix is binary.
+<li>A set’s total range can’t exceed twelve, which is the number of tones in the chromatic scale. 
+</ol>
+
+<p>Each set is given in its prime form, which excludes phase shifts and reversals. For example, the sets 246, 462, 624, 642, 426, and 264 are all considered equivalent, and their prime form is 246. Given the preceding constraints, the table of 65 sets given below is exhaustive. Each row of the table corresponds to a set. The columns are:
+
+<dl>
+<dt><strong>Set</strong>
+<dd>The hexadecimal set code, each digit of which specifies the range of the corresponding place. Only one of the set codes requires hexadecimal (set 2A).
+<dt><strong>Size</strong>
+<dd>The number of places in the set.
+<dt><strong>Range</strong>
+<dd>The set’s total range, in other words the sum of the place ranges.
+<dt><strong>Perms</strong>
+<dd>The number of permutations the set can have, in other words the product of the place ranges.
+</dl>
+
+<p>The table is ordered by a three-level sort on Size, Range, and Set.
+
+<p><table border=1>
+<tr><th>Set</th><th>Size</th><th>Range</th><th>Perms</th>
+
+<tr><td>22</td><td>2</td><td>4</td><td>4</td></tr>
+<tr><td>23</td><td>2</td><td>5</td><td>6</td></tr>
+<tr><td>24</td><td>2</td><td>6</td><td>8</td></tr>
+<tr><td>33</td><td>2</td><td>6</td><td>9</td></tr>
+<tr><td>25</td><td>2</td><td>7</td><td>10</td></tr>
+<tr><td>34</td><td>2</td><td>7</td><td>12</td></tr>
+<tr><td>26</td><td>2</td><td>8</td><td>12</td></tr>
+<tr><td>35</td><td>2</td><td>8</td><td>15</td></tr>
+<tr><td>44</td><td>2</td><td>8</td><td>16</td></tr>
+<tr><td>27</td><td>2</td><td>9</td><td>14</td></tr>
+<tr><td>36</td><td>2</td><td>9</td><td>18</td></tr>
+<tr><td>45</td><td>2</td><td>9</td><td>20</td></tr>
+<tr><td>28</td><td>2</td><td>10</td><td>16</td></tr>
+<tr><td>37</td><td>2</td><td>10</td><td>21</td></tr>
+<tr><td>46</td><td>2</td><td>10</td><td>24</td></tr>
+<tr><td>55</td><td>2</td><td>10</td><td>25</td></tr>
+<tr><td>29</td><td>2</td><td>11</td><td>18</td></tr>
+<tr><td>38</td><td>2</td><td>11</td><td>24</td></tr>
+<tr><td>47</td><td>2</td><td>11</td><td>28</td></tr>
+<tr><td>56</td><td>2</td><td>11</td><td>30</td></tr>
+<tr><td>2A</td><td>2</td><td>12</td><td>20</td></tr>
+<tr><td>39</td><td>2</td><td>12</td><td>27</td></tr>
+<tr><td>48</td><td>2</td><td>12</td><td>32</td></tr>
+<tr><td>57</td><td>2</td><td>12</td><td>35</td></tr>
+<tr><td>66</td><td>2</td><td>12</td><td>36</td></tr>
+<tr><td>222</td><td>3</td><td>6</td><td>8</td></tr>
+<tr><td>223</td><td>3</td><td>7</td><td>12</td></tr>
+<tr><td>224</td><td>3</td><td>8</td><td>16</td></tr>
+<tr><td>233</td><td>3</td><td>8</td><td>18</td></tr>
+<tr><td>225</td><td>3</td><td>9</td><td>20</td></tr>
+<tr><td>234</td><td>3</td><td>9</td><td>24</td></tr>
+<tr><td>333</td><td>3</td><td>9</td><td>27</td></tr>
+<tr><td>226</td><td>3</td><td>10</td><td>24</td></tr>
+<tr><td>235</td><td>3</td><td>10</td><td>30</td></tr>
+<tr><td>244</td><td>3</td><td>10</td><td>32</td></tr>
+<tr><td>334</td><td>3</td><td>10</td><td>36</td></tr>
+<tr><td>227</td><td>3</td><td>11</td><td>28</td></tr>
+<tr><td>236</td><td>3</td><td>11</td><td>36</td></tr>
+<tr><td>245</td><td>3</td><td>11</td><td>40</td></tr>
+<tr><td>335</td><td>3</td><td>11</td><td>45</td></tr>
+<tr><td>344</td><td>3</td><td>11</td><td>48</td></tr>
+<tr><td>228</td><td>3</td><td>12</td><td>32</td></tr>
+<tr><td>237</td><td>3</td><td>12</td><td>42</td></tr>
+<tr><td>246</td><td>3</td><td>12</td><td>48</td></tr>
+<tr><td>255</td><td>3</td><td>12</td><td>50</td></tr>
+<tr><td>336</td><td>3</td><td>12</td><td>54</td></tr>
+<tr><td>345</td><td>3</td><td>12</td><td>60</td></tr>
+<tr><td>444</td><td>3</td><td>12</td><td>64</td></tr>
+<tr><td>2222</td><td>4</td><td>8</td><td>16</td></tr>
+<tr><td>2223</td><td>4</td><td>9</td><td>24</td></tr>
+<tr><td>2224</td><td>4</td><td>10</td><td>32</td></tr>
+<tr><td>2233</td><td>4</td><td>10</td><td>36</td></tr>
+<tr><td>2225</td><td>4</td><td>11</td><td>40</td></tr>
+<tr><td>2234</td><td>4</td><td>11</td><td>48</td></tr>
+<tr><td>2333</td><td>4</td><td>11</td><td>54</td></tr>
+<tr><td>2226</td><td>4</td><td>12</td><td>48</td></tr>
+<tr><td>2235</td><td>4</td><td>12</td><td>60</td></tr>
+<tr><td>2244</td><td>4</td><td>12</td><td>64</td></tr>
+<tr><td>2334</td><td>4</td><td>12</td><td>72</td></tr>
+<tr><td>3333</td><td>4</td><td>12</td><td>81</td></tr>
+<tr><td>22222</td><td>5</td><td>10</td><td>32</td></tr>
+<tr><td>22223</td><td>5</td><td>11</td><td>48</td></tr>
+<tr><td>22224</td><td>5</td><td>12</td><td>64</td></tr>
+<tr><td>22233</td><td>5</td><td>12</td><td>72</td></tr>
+<tr><td>222222</td><td>6</td><td>12</td><td>64</td></tr>
+
+</table>
+
+<a name="set246"></a>
+<h3>Set 246 in detail</h3>
+
+<p>This table shows the 48 permutations of set 246 along with their corresponding trichords, assuming the first trichord starts on C. The permutations are listed in counting order for clarity. The number of possible orders is 48 factorial, a mind-boggling number.
+
+<p>One reason to use interval sets is that they automatically prevent chromatic <a href="https://en.wikipedia.org/wiki/Tone_cluster">tone clusters</a>. In set 246, notice that the trichord C, Db, D can’t occur, due to the requirement to pick one note from each span, and the fact that the spans are contiguous and non-overlapping.
+
+<p><table border=1>
+<tr><th>Value</th><th>Trichord</th></tr>
+
+<tr><td>0 0 0</td><td>C D Gb</td></tr>
+<tr><td>0 0 1</td><td>C D G</td></tr>
+<tr><td>0 0 2</td><td>C D Ab</td></tr>
+<tr><td>0 0 3</td><td>C D A</td></tr>
+<tr><td>0 0 4</td><td>C D Bb</td></tr>
+<tr><td>0 0 5</td><td>C D B</td></tr>
+<tr><td>0 1 0</td><td>C Eb Gb</td></tr>
+<tr><td>0 1 1</td><td>C Eb G</td></tr>
+<tr><td>0 1 2</td><td>C Eb Ab</td></tr>
+<tr><td>0 1 3</td><td>C Eb A</td></tr>
+<tr><td>0 1 4</td><td>C Eb Bb</td></tr>
+<tr><td>0 1 5</td><td>C Eb B</td></tr>
+<tr><td>0 2 0</td><td>C E Gb</td></tr>
+<tr><td>0 2 1</td><td>C E G</td></tr>
+<tr><td>0 2 2</td><td>C E Ab</td></tr>
+<tr><td>0 2 3</td><td>C E A</td></tr>
+<tr><td>0 2 4</td><td>C E Bb</td></tr>
+<tr><td>0 2 5</td><td>C E B</td></tr>
+<tr><td>0 3 0</td><td>C F Gb</td></tr>
+<tr><td>0 3 1</td><td>C F G</td></tr>
+<tr><td>0 3 2</td><td>C F Ab</td></tr>
+<tr><td>0 3 3</td><td>C F A</td></tr>
+<tr><td>0 3 4</td><td>C F Bb</td></tr>
+<tr><td>0 3 5</td><td>C F B</td></tr>
+<tr><td>1 0 0</td><td>Db D Gb</td></tr>
+<tr><td>1 0 1</td><td>Db D G</td></tr>
+<tr><td>1 0 2</td><td>Db D Ab</td></tr>
+<tr><td>1 0 3</td><td>Db D A</td></tr>
+<tr><td>1 0 4</td><td>Db D Bb</td></tr>
+<tr><td>1 0 5</td><td>Db D B</td></tr>
+<tr><td>1 1 0</td><td>Db Eb Gb</td></tr>
+<tr><td>1 1 1</td><td>Db Eb G</td></tr>
+<tr><td>1 1 2</td><td>Db Eb Ab</td></tr>
+<tr><td>1 1 3</td><td>Db Eb A</td></tr>
+<tr><td>1 1 4</td><td>Db Eb Bb</td></tr>
+<tr><td>1 1 5</td><td>Db Eb B</td></tr>
+<tr><td>1 2 0</td><td>Db E Gb</td></tr>
+<tr><td>1 2 1</td><td>Db E G</td></tr>
+<tr><td>1 2 2</td><td>Db E Ab</td></tr>
+<tr><td>1 2 3</td><td>Db E A</td></tr>
+<tr><td>1 2 4</td><td>Db E Bb</td></tr>
+<tr><td>1 2 5</td><td>Db E B</td></tr>
+<tr><td>1 3 0</td><td>Db F Gb</td></tr>
+<tr><td>1 3 1</td><td>Db F G</td></tr>
+<tr><td>1 3 2</td><td>Db F Ab</td></tr>
+<tr><td>1 3 3</td><td>Db F A</td></tr>
+<tr><td>1 3 4</td><td>Db F Bb</td></tr>
+<tr><td>1 3 5</td><td>Db F B</td></tr>
+
+</table>
+
+</body></html>

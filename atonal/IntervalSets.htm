@@ -15,9 +15,9 @@
 
 <p>An interval set is a <a href="https://en.wikipedia.org/wiki/Mixed_radix">mixed-radix</a> number in which each radix corresponds to a musical interval in semitones. For example radix 2 is a whole step, radix 3 is a minor third, radix 4 is a major third, and so on. Interval sets are intended for atonal music composition, and particularly for permutational chord progressions.
 
-<p>A set’s radices (or places) are defined by a hexadecimal value called a set code. Each hexadecimal digit specifies the range of one of the set’s places. A place’s value can vary from zero to its range minus one. For example, the code 246 defines a three-place set in which the first place can be 0 or 1, the second place can be 0, 1, 2, or 3, and the third place can  be 0, 1, 2, 3, 4, or 5. This set has a total range of 12 (2 + 4 + 6), and the number of unique states (or permutations) it can have is 48 (2 &times; 4 &times; 6).
+<p>A set’s radices (or places) are defined by a hexadecimal number called a set code. Each of the code’s digits specifies the range of one of the set’s places. A place’s value can vary from zero to its range minus one. For example, the code 246 defines a three-place set in which the first place can be 0 or 1, the second place can be 0, 1, 2, or 3, and the third place can be 0, 1, 2, 3, 4, or 5. This set has a total range of 12 (2 + 4 + 6), and the number of unique values it can produce is 48 (2 &times; 4 &times; 6).
 
-<p>In musical terminology, set 246 consists of three intervals: a whole step, a major third, and a tritone. Packed tightly, these intervals add up to an octave. Each interval spans a different contiguous subset of the chromatic scale. By selecting one note from each of the three spans, a trichord can be formed. Assuming the trichord starts on C, its first tone can be C or Db, its second tone can be D, Eb, E, or F, and its third tone can be Gb, G, Ab, A, Bb, or B. Since the set has 48 permutations, <a href="#set246">48 possible trichords</a> can be formed.
+<p>In musical terminology, set 246 consists of three intervals: a whole step, a major third, and a tritone. Packed tightly, these intervals add up to an octave. Each interval spans a different contiguous subset of the chromatic scale. By selecting one note from each of the three spans, a trichord can be formed. Assuming the trichord starts on C, its first tone can be C or Db, its second tone can be D, Eb, E, or F, and its third tone can be Gb, G, Ab, A, Bb, or B. Since the set produces 48 values, <a href="#set246">48 trichords</a> can be formed.
 
 <p>The following additional constraints apply to interval sets:
 <ol>
@@ -26,23 +26,23 @@
 <li>A set’s total range can’t exceed twelve, which is the number of tones in the chromatic scale. 
 </ol>
 
-<p>Each set is given in its prime form, which excludes phase shifts and reversals. For example, the sets 246, 462, 624, 642, 426, and 264 are all considered equivalent, and their prime form is 246. Given the preceding constraints, the table of 65 sets given below is exhaustive. Each row of the table corresponds to a set. The columns are:
+<p>Each set is given in its prime form, which excludes rotations and reversals. For example, the sets 246, 462, 624, 642, 426, and 264 are all considered equivalent, and their prime form is 246. Given the preceding constraints, the table of 65 sets given below is exhaustive. Each row of the table corresponds to a prime form set. The columns are:
 
 <dl>
 <dt><strong>Set</strong>
-<dd>The hexadecimal set code, each digit of which specifies the range of the corresponding place. Only one of the set codes requires hexadecimal (set 2A).
+<dd>The set code, each digit of which specifies the range of the corresponding place. Only one of the set codes requires hexadecimal (set 2A).
 <dt><strong>Size</strong>
-<dd>The number of places in the set.
+<dd>The number of places (or radices) in the set.
 <dt><strong>Range</strong>
 <dd>The set’s total range, in other words the sum of the place ranges.
-<dt><strong>Perms</strong>
-<dd>The number of permutations the set can have, in other words the product of the place ranges.
+<dt><strong>Values</strong>
+<dd>The number of unique values the set can produce, in other words the product of the place ranges.
 </dl>
 
 <p>The table is ordered by a three-level sort on Size, Range, and Set.
 
 <p><table border=1>
-<tr><th>Set</th><th>Size</th><th>Range</th><th>Perms</th>
+<tr><th>Set</th><th>Size</th><th>Range</th><th>Values</th>
 
 <tr><td>22</td><td>2</td><td>4</td><td>4</td></tr>
 <tr><td>23</td><td>2</td><td>5</td><td>6</td></tr>
@@ -115,7 +115,7 @@
 <a name="set246"></a>
 <h3>Set 246 in detail</h3>
 
-<p>This table shows the 48 permutations of set 246 along with their corresponding trichords, assuming the first trichord starts on C. The permutations are listed in counting order for clarity. The number of possible orders is 48 factorial, a gargantuan number.
+<p>This table shows the 48 values of set 246 along with their corresponding trichords, assuming the first trichord starts on C. The values are listed in counting order for clarity. The number of possible orders is 48 factorial, a gargantuan number.
 
 <p>One reason to use interval sets is that they automatically prevent chromatic <a href="https://en.wikipedia.org/wiki/Tone_cluster">tone clusters</a>. In set 246, notice that the trichord C, Db, D can’t occur, due to the requirement to pick one note from each span, and the fact that the spans are contiguous and non-overlapping.
 

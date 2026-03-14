@@ -8,234 +8,2504 @@
 
 
 <url>
-  <loc>https://www.chriskorda.com/</loc>
-  <lastmod>2022-06-24T14:13:49+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/index.html</loc>
-  <lastmod>2022-06-24T14:13:49+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/index.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/music.html</loc>
-  <lastmod>2022-11-23T23:43:29+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/music.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/software.html</loc>
-  <lastmod>2022-11-23T23:50:40+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/software.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/art.html</loc>
-  <lastmod>2022-11-23T23:44:31+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/art.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words.html</loc>
-  <lastmod>2022-11-23T23:43:20+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/words.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/contact.html</loc>
-  <lastmod>2022-11-23T23:46:16+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/contact.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/news/indirect_methods_press_release.html</loc>
-  <lastmod>2022-11-11T17:15:53+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/bio.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/index.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/translate.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/tools/tracks.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/akoko-ajeji.html</loc>
-  <lastmod>2022-11-24T00:06:49+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/PrimeForms.htm</loc>
-  <lastmod>2018-12-30T18:35:10+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/musical_influences.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/Addends.htm</loc>
-  <lastmod>2019-04-17T16:40:17+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/Polymeter/</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/math/convergences.html</loc>
-  <lastmod>2021-11-29T18:06:50+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/PotterDraw/</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/math/convergences_bigint.html</loc>
-  <lastmod>2021-11-29T18:06:51+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/ChordEase/</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/EnumRhythmsByDensity.htm</loc>
-  <lastmod>2022-11-23T23:39:53+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/WaveShop/</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/FundamentalPatterns.htm</loc>
-  <lastmod>2022-08-01T14:54:28+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/FFRend/</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/GranularModulations.htm</loc>
-  <lastmod>2022-09-16T15:05:41+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/Fractice/</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/HeptatonicAlterations.htm</loc>
-  <lastmod>2022-09-16T15:01:19+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/Whorld/</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/GrayChangeRinging.htm</loc>
-  <lastmod>2022-02-23T00:15:00+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/Mixere/</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/chris-korda-software-CV.html</loc>
-  <lastmod>2022-05-09T11:52:59+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/PrimeForms.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/tlor/a_thin_layer_of_oily_rock.html</loc>
-  <lastmod>2021-11-29T18:06:51+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/Addends.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/tlor/a_thin_layer_of_oily_rock_la_station.html</loc>
-  <lastmod>2021-11-29T18:06:51+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/math/convergences.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/ckpress.html</loc>
-  <lastmod>2022-11-23T23:44:59+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/math/convergences_bigint.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/news/press_releases.html</loc>
-  <lastmod>2022-11-23T23:48:59+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/EnumRhythmsByDensity.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/more_than_four_lyrics.html</loc>
-  <lastmod>2022-11-23T23:36:25+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/FundamentalPatterns.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future_lyrics.html</loc>
-  <lastmod>2022-11-23T23:36:09+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/GranularModulations.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future_lyrics_french.html</loc>
-  <lastmod>2022-11-22T18:32:08+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/HeptatonicAlterations.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/i_like_to_watch_lyrics.html</loc>
-  <lastmod>2022-11-23T23:03:49+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/GrayChangeRinging.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/man_of_the_future_lyrics.html</loc>
-  <lastmod>2022-04-26T21:52:33+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/atonal/IntervalSets.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/eight_billion_humans_lyrics.html</loc>
-  <lastmod>2022-04-26T21:52:12+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/chris-korda-software-CV.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/mail_form_v2.php</loc>
-  <lastmod>2022-11-27T12:44:54+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/tlor/a_thin_layer_of_oily_rock.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/PitchClassSupersets.htm</loc>
-  <lastmod>2018-12-30T18:35:06+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/tlor/a_thin_layer_of_oily_rock_la_station.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/docs/Polymeter-Arkaoda-slides.pdf</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/avenging_angels_of_software_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/primitive_man_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/not_my_problem_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/more_than_four_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future_lyrics_french.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/i_like_to_watch_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/man_of_the_future_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/eight_billion_humans_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ckpress.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/press_releases.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/balagray/</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/talks/BPA_presentation.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/reviews.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/interviews/ChatGPT.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/all_my_problems_are_soluble_press_release.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/pitch_class_histograms.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/interviews/vakuum_interview.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/odd_time_polymeter_influences.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/not_my_problem_ill_be_dead_press_release.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/indirect_methods_press_release.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/more_than_four_press_release.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/helpframe.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/printable/PolymeterHelp.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores-foreword.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/atonal/PitchClassSubsets.htm</loc>
-  <lastmod>2018-12-30T18:35:04+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Itumo_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/news/more_than_four_press_release.html</loc>
-  <lastmod>2022-07-29T10:13:38+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Ona_Lile_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/news/passion_for_numbers_liner_notes.html</loc>
-  <lastmod>2022-11-11T17:41:38+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Algo_Rag_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/news/apologize_to_the_future_press_release.html</loc>
-  <lastmod>2022-11-11T17:18:01+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Oju_Inu_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/news/polymeter_sleeve_notes.html</loc>
-  <lastmod>2022-11-11T17:47:50+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Atunwi_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/more_than_four/more_than_four_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:36+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Ero_Ayo_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/more_than_four/moonchego_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:29+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Mo_Bulu_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/more_than_four/pleasant_mistake_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:48+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Irubo_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/more_than_four/planet_broke_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:41+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Ninu_Meta_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future/a_thin_layer_of_oily_rock_lyrics.html</loc>
-  <lastmod>2022-11-23T23:34:48+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Ibaramu_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future/changing_climage_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:02+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Yipo_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future/apologize_to_the_future_lyrics.html</loc>
-  <lastmod>2022-11-23T23:34:56+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Fun_Ife_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future/singularity_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:21+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Roro_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future/overshoot_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:14+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Facts_in_Dispute_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://www.chriskorda.com/words/apologize_to_the_future/exit_game_lyrics.html</loc>
-  <lastmod>2022-11-23T23:35:09+00:00</lastmod>
+  <loc>https://victimofleisure.github.io/misc/scores/Style_Is_Feeling_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
   <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Gray_in_Three_Situations_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Humble_Exterior_Clay_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Gathering_Into_Form_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/All_My_Problems_Are_Soluble_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Ekinology_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Carved_By_Ear_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Rippled_and_Blent_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Flow_of_Your_Arms_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Gleaming_Steps_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Renumbering_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Fine_Teeth_I_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Fine_Teeth_II_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Ideal_Spans_I_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Ideal_Spans_II_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Stern_Tone_I_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Stern_Tone_II_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Bent_Rule_I_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Bent_Rule_II_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Sense_in_Depth_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Swell_Rows_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Facts_in_Dispute_compact_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/custom/Style_Is_Feeling_combined_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/custom/Humble_Exterior_Clay_combined_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Flow_of_Your_Arms_compact_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Renumbering_compact_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Fine_Teeth_I_compact_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Stern_Tone_I_compact_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/scores/Sense_in_Depth_compact_score.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/index.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/screenshots.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/features.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/download.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/development.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/faq.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/gallery/bongo.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/videos.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/forums.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/links.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/contact.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/translate.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Polymeter.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Queue_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/relnotes.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/oldnews.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/index.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/screenshots.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/features.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/download.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/helpframe.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/development.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/faq.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/gallery.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/videos.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/forums.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/links.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/contact.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/relnotes.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/index.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/screenshots.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/features.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/download.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/helpframe.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/development.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/faq.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/videos.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/forums.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/links.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/contact.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/relnotes.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/index.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/screenshots.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/features.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/download.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/helpframe.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/development.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/faq.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/forums.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/links.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/contact.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/relnotes.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/Help/Loose_ends/File_formats.htm</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/index.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/movies.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/gallery/bifurcations.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/screenshots.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/features.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/download.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/helpframe.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/development.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/forums.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/links.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/contact.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/relnotes.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/plugins/MiscPlugs-ReadMe.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/plugins/BoolMix-ReadMe.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/plugins/WaveGen-ReadMe.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/plugins/PlayerFF-ReadMe.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/index.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/movies.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/gallery/gallery1.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/screenshots.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/features.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/download.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/helpframe.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/development.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/faq.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/forums.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/links.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/contact.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/relnotes.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/news.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/index.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/movies.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/trail.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/screenshots.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/features.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/download.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/helpframe.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/development.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/forums.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/links.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/contact.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/relnotes.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/UltraWhorldReadMe.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/vidmix.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/WhorldFFReadMe.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/bezier.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/index.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/screenshots.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/features.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/download.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/helpframe.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/development.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/lists.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/links.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/contact.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/atonal/PitchClassSupersets.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/atonal/PitchClassSubsets.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/tools/RhythmEnum.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/atonal/IntervalSetUsage.htm</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/avenging_angels/avenging_angels_of_software.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/avenging_angels/a_good_machine_is_hard_to_find.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/avenging_angels/bot_bottom.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/avenging_angels/reptiles_like_it_hot.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/primitive_man/primitive_man.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/primitive_man/lunch_break.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/not_my_problem/baby_batter_bingo.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/not_my_problem/not_my_problem_ill_be_dead.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/not_my_problem/have_a_good_one.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/not_my_problem/awesome_on_mars.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/more_than_four/more_than_four_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/more_than_four/moonchego_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/more_than_four/pleasant_mistake_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/more_than_four/planet_broke_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future/a_thin_layer_of_oily_rock_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future/changing_climage_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future/apologize_to_the_future_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future/singularity_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future/overshoot_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/words/apologize_to_the_future/exit_game_lyrics.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/avenging_angels_of_software_press_release.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/passion_for_numbers_liner_notes.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/apologize_to_the_future_press_release.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/akoko-ajeji.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/news/polymeter_sleeve_notes.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/balagray/granular_harmony_balanced_gray.pdf</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/misc/odd_time_polymeter_influences_addendum.html</loc>
+  <lastmod>2026-03-13T23:47:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Contents.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/tools/atonal/Addends.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/issues.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/issues.txt</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/notes.txt</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/polymeter-mac.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/gallery/jock.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/gallery/stencil.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/tools/atonal/PrimeForms.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/tools/convergences.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/tools/convergences_bigint.html</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Tracks.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Loose_Ends/Primes.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Convergences.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Steps.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Modulations.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Tracks/Note_tracks.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Track_Grid.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Track_Steps.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Step_Values_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Scale_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Chord_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Index_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Note_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Tracks/Internal_tracks.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Mute_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Position_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Offset_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/Help/printable/PotterDrawHelp.htm</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/Help/Contents.htm</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/issues.html</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/PotterDraw/issues.txt</loc>
+  <lastmod>2023-01-03T10:45:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/Help/printable/ChordEaseHelp.htm</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/Help/Contents.htm</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/issues.html</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/ChordEase/issues.txt</loc>
+  <lastmod>2025-07-19T19:02:47+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/screenshots-old.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/Help/printable/WaveShopHelp.htm</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/Help/Contents.htm</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/issues.html</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/WaveShop/issues.txt</loc>
+  <lastmod>2023-01-03T10:42:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/gallery/hex1.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/gallery/hex2.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/Help/printable/FFRendHelp.htm</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/Help/printable/FFRendHelp.doc</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/Help/printable/FFRendHelp.pdf</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/plugins/FFSrcPlug-ReadMe.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/Help/Contents.htm</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/issues.html</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/FFRend/issues.txt</loc>
+  <lastmod>2023-01-03T10:48:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/gallery/ckorda.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/Help/Contents.htm</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/issues.html</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Fractice/issues.txt</loc>
+  <lastmod>2023-01-03T10:57:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/xray.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/smoke.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/lotus.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/pinwheel.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/cross.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/tentacles.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/star.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/gallery/statement.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/printable/WhorldHelp.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/printable/WhorldHelp.doc</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/printable/WhorldHelp.pdf</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Contents.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Whorld2-issues.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Whorld2-issues.txt</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/development-v1.html</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Playlists/Playing_patches.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Patches/Patches.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Speed.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Zoom.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Color/Color_Model.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Damping.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Rings.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Tempo.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Hue_loop_length.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Canvas_scale.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Copies.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Master_Controls/Spread.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Modes/Origin_Motion.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Parameters.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Patches/Master_Offsets.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Ring_Growth.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Ring_Spacing.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Line_Width.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Ring_Sides.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Rotate_Speed.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Aspect_Ratio.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Skew_Radius.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Skew_Angle.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Star_Factor.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Pinwheel.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Color_Speed.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Lightness.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Saturation.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Background_Hue.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Background_Lightness.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Background_Saturation.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Even_Curve.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Odd_Curve.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Modes/Patch_mode.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Color/Loop_Hue.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Color/Rotate_Hue.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Color/Invert_Color.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Effects/Mirror.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Effects/Fill.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Effects/Outline.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Effects/X-Ray.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Patches/Oscillators.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Effects/Reverse.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Effects/Convex.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Even_Shear.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Odd_Shear.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Parameters/Global_Parameters.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Whorld/Help/Loose_Ends/Performance.htm</loc>
+  <lastmod>2026-03-07T21:05:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/Help/Contents.htm</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/Help/Getting_Started/Introduction.htm</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/issues.html</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Mixere/issues.txt</loc>
+  <lastmod>2023-01-03T10:47:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Getting_Started/License.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Getting_Started/Requirements.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Getting_Started/Installing.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Getting_Started/Uninstalling.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Getting_Started/Getting_help.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Dubs.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Songs.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Parts.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Presets.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Mappings.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/List_controls.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Concepts/Grid_controls.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Tracks/Controller_tracks.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Tracks/Tempo_tracks.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Tracks/Modulator_tracks.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Velocity_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Duration_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Range_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Tempo_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Modulation/Voicing_modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Views.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Track_View.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Track_Mutes.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Track_Selection.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Step_Selection.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Track_View/Velocities_Pane.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Song_View.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Views/Live_View.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Docking_windows.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Arranging_docking_windows.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Menu_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Toolbar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Properties_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Channels_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Presets_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Parts_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Modulations_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/MIDI_Input_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/MIDI_Output_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Piano_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Graph_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Phase_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Docking_Windows/Mapping_bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Tempo.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Timebase.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Meter.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Key_Signature.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Song_Length.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Start_Position.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Note_Overlap.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Record_Offset.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Loop_From.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Properties/Loop_To.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Input_Device.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Output_Device.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Latency.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Buffer_Size.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Thru.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Default_Velocity.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Input_Quantization.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Record_Input.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/MIDI/Send_MIDI_Clock.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Update_Frequency.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Show_Current_Position.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Show_Note_Names.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Show_General_MIDI_Names.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Show_Quant_as_Fraction.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Show_Track_Colors.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Unique_Track_Names.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Zoom_Step.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/View/Live_View_Font_Height.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/Graph/Graphviz_Folder.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/Graph/Graph_Handles_Unicode.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/Graph/Use_Cairo.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/General/Show_Property_Descriptions.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/General/Automatically_Check_for_Updates.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Options/General/Always_Record.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/New.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Open.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Close.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Save.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Save_As.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Export.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Import.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/File/Exit.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Standard_editing_commands.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Undo.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Redo.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Cut.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Copy.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Paste.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Insert.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Delete.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Select_All.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Deselect.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Rename.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Find.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Edit/Replace.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/View_Docking_Windows.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Status_Bar.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Application_Look.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Zoom_In.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Zoom_Out.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Zoom_Reset.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Properties.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Channels.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Modulations.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Groups.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Velocities.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Track_View.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Song_View.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Show_Live_View.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/View/Customize.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Length.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Shift.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Rotate.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Reverse.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Invert.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Tie_Notes.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Transpose.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Velocity.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Fill.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Stretch.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Mute.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Solo.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Create_Group.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Create_Preset.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Create_Modulation.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Sort.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://victimofleisure.github.io/Polymeter/Help/Menus/Track/Color.htm</loc>
+  <lastmod>2026-02-16T11:39:42+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 
